@@ -1,0 +1,3 @@
+1.Schema create
+2 Schema - model
+3 using Model we do CRUD operation

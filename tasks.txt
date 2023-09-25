@@ -1,0 +1,20 @@
+REST API - JSON
+
+GET / users - List all users ----let for browser - send html document
+GET /api/ users - List all users ----- send json data
+
+
+GET /api/users/1 - get the user with ID 1
+GET /api/users/2 - get the user with ID 2
+
+Dynamic Path Parameters
+GET /api/users/:id
+:id -> Variable  | Dyanamic
+
+POST /api/users - create new user
+
+PATCH /api/user/id - Edit the user with ID 1
+
+DELETE /api/users/1 - delete the user with ID 1
+
+// generate fake data from mokaaro.com

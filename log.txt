@@ -1,0 +1,18 @@
+
+1695219380837:::1 GET: /api/users
+
+1695219404477:::1 GET: /api/users
+
+1695219416355:::1 POST: /api/users
+
+1695219427609:::1 GET: /api/users
+
+1695219451552:::1 GET: /api/users/650afed82b7b8f1e1083cfb3
+
+1695219462135:::1 PATCH: /api/users/650afed82b7b8f1e1083cfb3
+
+1695219468366:::1 GET: /api/users/650afed82b7b8f1e1083cfb3
+
+1695219479848:::1 DELETE: /api/users/650afed82b7b8f1e1083cfb3
+
+1695219494011:::1 POST: /api/users
